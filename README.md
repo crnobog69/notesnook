@@ -1,11 +1,23 @@
-# 🐈 | Catppuccin Mocha Green > [Notesnook](https://notesnook.com/)
+# 📝 | Catppuccin Mocha Green > [Notesnook](https://notesnook.com/)
 
-<br>
+---
+
+  [Српски (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
 
 ---
 
 <br>
 
-1. **Settings**
-2. **Appearance**
-3. **Load from File**
+## Постављање теме
+
+<br>
+
+1. **Подешавања** / **Settings**
+2. **Изглед** / **Appearance**
+3. **Учитај из датотеке** / **Load from File**
+4. Изаберите **`theme.json`**
+5. **Изаберите као подразумевано** / **Set as Default**
+
+<br>
+
+---
