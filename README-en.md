@@ -15,7 +15,7 @@
 1. **Settings**
 2. **Appearance**
 3. **Load from File**
-4. Choose **`theme.json`**
+4. Choose the file - **`theme.json`**
 5. **Set as Default**
 
 <br>
